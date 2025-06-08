@@ -176,4 +176,4 @@ This project demonstrates how raw retail data can be transformed into meaningful
 
 **Felista Wairimu Njihia**  
 Aspiring Data Scientist  
-📫 [Email](njihiafelista@gmail.com) | 🌍 Nairobi, Kenya
+📫 [Email Me](mailto:njihiafelista@gmail.com) | 🌍 Nairobi, Kenya
